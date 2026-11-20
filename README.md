@@ -26,11 +26,11 @@
 ## `> whoami`
 
 ```yaml
-nome:       Anthonny Tavares
-foco:       automação de processos · sistemas internos · integrações ERP/CAD
-formação:   Engenharia de Software — 3º período
-experiência: TI na indústria — aprendi a programar resolvendo problemas reais do dia a dia
-missão:     tirar da sua equipe o trabalho repetitivo para sobrar tempo para o que importa
+nome:        Anthonny Tavares
+foco:        automação de processos · sistemas internos · integrações ERP/CAD
+experiência: TI na indústria — construí sistemas que a equipe usa no dia a dia
+formação:    Engenharia de Software (cursando)
+missão:      tirar da sua equipe o trabalho repetitivo para sobrar tempo para o que importa
 ```
 
 > Sua equipe passa horas copiando planilhas, conferindo pedidos e redigitando dados no sistema?
