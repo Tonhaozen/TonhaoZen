@@ -107,13 +107,14 @@ Projeto que idealizei e desenvolvi **sozinho**, da análise do processo ao códi
 </details>
 
 <details>
-<summary><b>🎨 Portfólio artístico — Laura Ladewig Kriwoj</b></summary>
+<summary><b>🎨 Portfólio artístico — Laura Ladewig Kriwoj</b> &nbsp;<code>no ar</code></summary>
 <br />
 
 ```diff
 - problema:  artista precisava mostrar as obras com qualidade e proteger seus direitos
 + solução:   galeria com zoom e lupa, avaliações moderadas, LGPD, termos e direitos autorais
 ```
+🔗 **[artsplash.netlify.app](https://artsplash.netlify.app/)**<br />
 `HTML` `CSS` `JavaScript` `Netlify`
 </details>
 
